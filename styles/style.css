@@ -16,4 +16,13 @@ h3, h5{
   color: black;
   text-decoration-style: solid;
   font-family: 'Archivo Black', sans-serif;
+  text-align: center;
+}
+
+p{
+  text-align: left;
+}
+
+hr{
+  height: 30px;
 }
